@@ -73,10 +73,14 @@ Create the following repository variable:
 
 If you do not wish to track any VRChat Groups, you can skip this step.
 
-Use the Discord Developer Portal to [create a new app registration](https://discord.com/developers/docs/getting-started#step-1-creating-an-app).
+Use the [Discord Developer Portal](https://discord.com/developers) to [create a new app registration](https://discord.com/developers/docs/getting-started#step-1-creating-an-app).
 The app can be named anything.
 You will only need to complete step 1 from this linked article.
 Make sure you copy your app's Bot Token during this process and save it for later.
+
+Configure your Bot's [Privileged Gateway Intents](https://support-dev.discord.com/hc/articles/6207308062871-What-are-Privileged-Intents) to include the following permissions:
+* SERVER MEMBERS INTENT
+* MESSAGE CONTENT INTENT
 
 Next, add your new Discord Bot to any servers that you wish to track.
 
