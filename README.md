@@ -4,6 +4,7 @@
 # Introduction
 
 Video Introduction on YouTube:
+
 [![Intro Video](http://img.youtube.com/vi/YedZa5gvlZg/0.jpg)](http://www.youtube.com/watch?v=YedZa5gvlZg "Introduction")
 
 This is a template repository for quickly configuring your own GitHub Actions powered workflow to automatically track your desired VRChat Group(s) and/or Discord Server(s).
