@@ -1,6 +1,13 @@
 # Kemocade VRC Role Tracker
 
+# This project has moved!
+The functionality of the VRChat Role Tracker is now part of the [VRChat API Tracker](https://github.com/kemocade/Kemocade.Vrc.Api.Tracker)!
+
+Visit the new repository for updated versions and features.
+
+# Archived README Below
 -----
+
 # Introduction
 
 This is a template repository for quickly configuring your own GitHub Actions powered workflow to automatically track your desired VRChat Group(s) and/or Discord Server(s).
